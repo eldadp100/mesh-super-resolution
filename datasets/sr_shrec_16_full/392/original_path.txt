@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\man\train\T379.obj

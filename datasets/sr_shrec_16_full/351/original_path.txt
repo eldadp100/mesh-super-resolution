@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\lamp\train\T194.obj

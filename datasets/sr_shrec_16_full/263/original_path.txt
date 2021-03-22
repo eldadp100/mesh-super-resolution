@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\glasses\test\T530.obj

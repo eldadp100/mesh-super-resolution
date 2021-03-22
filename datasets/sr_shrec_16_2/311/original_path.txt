@@ -1,0 +1,1 @@
+../datasets/shrec_16\hand\train\T328.obj

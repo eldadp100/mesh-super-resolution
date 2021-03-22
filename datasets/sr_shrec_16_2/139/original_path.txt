@@ -1,0 +1,1 @@
+../datasets/shrec_16\cat\train\T98.obj

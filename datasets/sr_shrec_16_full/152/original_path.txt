@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\centaur\train\T377.obj

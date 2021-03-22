@@ -1,0 +1,1 @@
+../datasets/shrec_16\horse\train\T579.obj

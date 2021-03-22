@@ -1,0 +1,1 @@
+../datasets/shrec_16\cat\train\T449.obj

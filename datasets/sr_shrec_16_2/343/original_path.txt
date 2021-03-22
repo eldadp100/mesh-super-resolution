@@ -1,0 +1,1 @@
+../datasets/shrec_16\lamp\test\T63.obj

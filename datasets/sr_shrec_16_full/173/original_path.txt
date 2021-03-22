@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\dinosaur\train\T368.obj

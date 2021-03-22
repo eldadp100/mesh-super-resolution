@@ -1,0 +1,1 @@
+../datasets/shrec_16\alien\test\T547.obj

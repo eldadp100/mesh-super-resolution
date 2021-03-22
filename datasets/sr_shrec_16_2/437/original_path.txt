@@ -1,0 +1,1 @@
+../datasets/shrec_16\octopus\train\T386.obj

@@ -1,0 +1,1 @@
+../datasets/shrec_16\snake\test\T0.obj

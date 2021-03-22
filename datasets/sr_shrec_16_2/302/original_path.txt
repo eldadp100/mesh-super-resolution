@@ -1,0 +1,1 @@
+../datasets/shrec_16\hand\test\T512.obj

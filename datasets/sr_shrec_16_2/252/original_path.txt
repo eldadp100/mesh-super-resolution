@@ -1,0 +1,1 @@
+../datasets/shrec_16\flamingo\train\T335.obj

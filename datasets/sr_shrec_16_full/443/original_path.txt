@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\pliers\test\T531.obj

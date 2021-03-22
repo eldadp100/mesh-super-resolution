@@ -1,0 +1,1 @@
+../datasets/shrec_16\two_balls\train\T164.obj

@@ -1,0 +1,1 @@
+../datasets/shrec_16\dino_ske\train\T14.obj

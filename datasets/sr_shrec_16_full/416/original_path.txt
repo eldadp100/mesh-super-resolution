@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\myScissor\train\T466.obj

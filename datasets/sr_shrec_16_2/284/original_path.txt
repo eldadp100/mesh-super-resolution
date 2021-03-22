@@ -1,0 +1,1 @@
+../datasets/shrec_16\gorilla\train\T115.obj

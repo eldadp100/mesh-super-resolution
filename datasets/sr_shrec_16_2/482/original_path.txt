@@ -1,0 +1,1 @@
+../datasets/shrec_16\santa\test\T435.obj

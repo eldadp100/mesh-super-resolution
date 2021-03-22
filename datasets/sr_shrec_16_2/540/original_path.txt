@@ -1,0 +1,1 @@
+../datasets/shrec_16\spiders\test\T108.obj

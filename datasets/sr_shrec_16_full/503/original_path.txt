@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\shark\test\T498.obj

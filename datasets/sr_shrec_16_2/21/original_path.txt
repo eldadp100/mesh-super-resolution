@@ -1,0 +1,1 @@
+../datasets/shrec_16\ants\test\T347.obj

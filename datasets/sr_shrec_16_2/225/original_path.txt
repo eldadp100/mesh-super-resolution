@@ -1,0 +1,1 @@
+../datasets/shrec_16\dog2\train\T189.obj

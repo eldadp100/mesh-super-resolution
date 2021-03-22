@@ -1,0 +1,1 @@
+../datasets/shrec_16\dino_ske\test\T598.obj

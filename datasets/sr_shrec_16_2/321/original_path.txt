@@ -1,0 +1,1 @@
+../datasets/shrec_16\horse\test\T343.obj

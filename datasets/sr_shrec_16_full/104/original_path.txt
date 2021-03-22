@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\camel\train\T187.obj

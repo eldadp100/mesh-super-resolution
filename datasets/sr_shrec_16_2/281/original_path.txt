@@ -1,0 +1,1 @@
+../datasets/shrec_16\gorilla\test\T4.obj

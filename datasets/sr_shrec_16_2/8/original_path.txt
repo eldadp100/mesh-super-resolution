@@ -1,0 +1,1 @@
+../datasets/shrec_16\alien\train\T228.obj

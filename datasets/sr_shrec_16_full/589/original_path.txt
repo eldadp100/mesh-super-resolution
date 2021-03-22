@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\woman\train\T36.obj

@@ -1,0 +1,1 @@
+../datasets/shrec_16\bird1\train\T477.obj

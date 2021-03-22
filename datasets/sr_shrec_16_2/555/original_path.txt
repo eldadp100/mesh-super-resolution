@@ -1,0 +1,1 @@
+../datasets/shrec_16\spiders\train\T513.obj

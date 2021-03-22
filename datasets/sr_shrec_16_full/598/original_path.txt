@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\woman\train\T592.obj

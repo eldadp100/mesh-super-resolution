@@ -1,0 +1,1 @@
+../datasets/shrec_16\flamingo\test\T131.obj

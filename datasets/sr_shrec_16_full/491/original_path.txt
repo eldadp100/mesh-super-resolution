@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\santa\train\T271.obj

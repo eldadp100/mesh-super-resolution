@@ -1,0 +1,1 @@
+../datasets/shrec_16\rabbit\train\T246.obj

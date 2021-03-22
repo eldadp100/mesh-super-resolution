@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\shark\train\T496.obj

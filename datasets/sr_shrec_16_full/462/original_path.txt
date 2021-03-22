@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\rabbit\test\T541.obj

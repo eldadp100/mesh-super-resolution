@@ -1,0 +1,1 @@
+../datasets/shrec_16\armadillo\train\T201.obj

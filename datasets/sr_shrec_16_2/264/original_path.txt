@@ -1,0 +1,1 @@
+../datasets/shrec_16\glasses\train\T170.obj

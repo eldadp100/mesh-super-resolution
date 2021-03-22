@@ -1,0 +1,1 @@
+../datasets/shrec_16\bird2\test\T80.obj

@@ -1,0 +1,1 @@
+../datasets/shrec_16\cat\test\T448.obj

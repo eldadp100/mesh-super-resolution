@@ -1,0 +1,1 @@
+../datasets/shrec_16_full\snake\train\T333.obj

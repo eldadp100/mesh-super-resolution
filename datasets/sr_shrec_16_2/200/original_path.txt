@@ -1,0 +1,1 @@
+../datasets/shrec_16\dog1\test\T125.obj

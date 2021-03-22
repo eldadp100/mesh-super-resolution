@@ -1,0 +1,1 @@
+../datasets/shrec_16\snake\train\T75.obj

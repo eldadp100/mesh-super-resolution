@@ -1,0 +1,1 @@
+../datasets/shrec_16\centaur\train\T281.obj

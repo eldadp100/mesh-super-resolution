@@ -1,0 +1,1 @@
+../datasets/shrec_16\centaur\test\T565.obj

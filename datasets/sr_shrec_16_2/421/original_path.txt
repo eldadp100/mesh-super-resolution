@@ -1,0 +1,1 @@
+../datasets/shrec_16\octopus\test\T263.obj

@@ -1,0 +1,1 @@
+../datasets/shrec_16\laptop\train\T588.obj

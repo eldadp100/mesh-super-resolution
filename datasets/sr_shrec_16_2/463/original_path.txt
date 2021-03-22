@@ -1,0 +1,1 @@
+../datasets/shrec_16\rabbit\test\T73.obj
